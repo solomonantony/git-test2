@@ -1,1 +1,2 @@
+some errors
 This is my second file
